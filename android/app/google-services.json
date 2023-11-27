@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "502293836437",
+    "project_id": "heartcare-2a73f",
+    "storage_bucket": "heartcare-2a73f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:502293836437:android:c6315b0850f10a02ea619c",
+        "android_client_info": {
+          "package_name": "com.example.heartcare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "502293836437-vguho7t4vl92e2luh8bp2l7putvdmbi8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIhXbX4lfcnY52p3KtC-ISF_k-eE_7dTY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "502293836437-vguho7t4vl92e2luh8bp2l7putvdmbi8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "502293836437-knfcqifljj5ghdkspcqu9s0g237d46uc.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.heartcare.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
